@@ -59,7 +59,6 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 - [CLA-NeRF: Category-Level Articulated Neural Radiance Field](https://arxiv.org/abs/2202.00181), Tseng et al., ICRA 2022 | [bibtex](./citations/cla-nerf.txt)
 - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/), Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) | [bibtex](./citations/TiNeuVox.txt)
-- [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://grail.cs.washington.edu/projects/humannerf/), Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf) | [bibtex](./citations/humannerf.txt)
 - [AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training](https://yifanjiang19.github.io/alignerf), Jiang et al., CVPR 2023 | [bibtex](./citations/AligNeRF.txt)
 - [DynIBaR: Neural Dynamic Image-Based Rendering](https://dynibar.github.io/), Li et al., CVPR 2023 | [bibtex](./citations/DynIBaR.txt)
 
@@ -69,7 +68,6 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <details open>
 <summary>Video</summary>
 
-- [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/), Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](citations/UV-Volumes.txt) <!---Chen22arxiv_uvvolumes-->
 - [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/), Li et al., CVPR 2022 | [bibtex](./citations/3d-video.txt)
 - [Streaming Radiance Fields for 3D Video Synthesis](https://arxiv.org/abs/2210.14831) Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF) | [bibtex](./citations/StreamRF.txt)
 </details>
